@@ -1,0 +1,16 @@
+h1 {
+    font-size: 50px;
+    color: red;
+}
+
+img:hover{
+    background-color: gold;
+}
+
+.bacon{
+    background-color: green;
+}
+
+.broccoli{
+    background-color: red;
+}
