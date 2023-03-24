@@ -1,3 +1,6 @@
+body{
+    background-color: blue;
+}
 h1 {
     font-size: 50px;
     color: red;
@@ -13,4 +16,12 @@ img:hover{
 
 .broccoli{
     background-color: red;
+}
+
+.circular{
+    border-radius: 100%;
+}
+
+#heading {
+    color: blue;
 }
